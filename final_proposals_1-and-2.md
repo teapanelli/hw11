@@ -11,7 +11,8 @@ Interactivity would include sound, key commands, and mouse commands.
 ## Component Parts
 
 Simple p5 project, no external components. 
-'''
+
+##
 
 # Your Project Title Here
 
